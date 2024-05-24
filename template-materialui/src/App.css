@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.Aguardando {
+  background-color: yellow;
+}
+
+.EmAndamento {
+  background-color: orange;
+}
+
+.Concluida {
+  background-color: green;
+}
+
